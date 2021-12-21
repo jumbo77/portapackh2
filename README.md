@@ -1,2 +1,1 @@
-# portapackh2
-new fw for portapack h2
+2021/12 change big QFP100 cpld so need update fw to support it.
