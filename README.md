@@ -1,8 +1,8 @@
 2021/12 change big QFP100 cpld so need update fw to support it.                                                         
 if cpld update fail,don't shutdown_base                                                         
 to update v1.4.2 :                                                              
-1.HackRF Press DFU then Press RESET                                                             
-2.Click dfu_hackrf_one.bat                                                              
+1.HackRF Press DFU then Press RESET (then install DFU Driver)                                                            
+2.Click dfu_hackrf_one.bat   (then install hackrf Driver)                                                           
 3.Then Click flash_portapack_mayhem_skip_cpld1.4.2.bat                                                          
 4.update Finished                                                               
                                                                 
