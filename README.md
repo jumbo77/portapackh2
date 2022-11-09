@@ -8,6 +8,7 @@ to update v1.4.2 :
 
 this function tested with my v3.6 pcb
 https://www.mmdvm.club/index.php/h2plus.html
+https://www.mmdvm.club/usr/uploads/2022/10/2054029984.jpg
 
 I just Change the mayhem code to support portack cpld flashed QFP100 Chip.                                                              
 A and B                                                         
