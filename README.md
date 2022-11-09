@@ -4,8 +4,11 @@ to update v1.4.2 :
 1.HackRF Press DFU then Press RESET (then install DFU Driver)                                                            
 2.Click dfu_hackrf_one.bat   (then install hackrf Driver)                                                           
 3.Then Click flash_portapack_mayhem_skip_cpld1.4.2.bat                                                          
-4.update Finished                                                               
-                                                                
+4.update Finished    
+
+this function tested with my v3.6 pcb
+https://www.mmdvm.club/index.php/h2plus.html
+
 I just Change the mayhem code to support portack cpld flashed QFP100 Chip.                                                              
 A and B                                                         
 bool init() {                                                           
